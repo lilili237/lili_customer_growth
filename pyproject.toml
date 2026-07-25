@@ -3,7 +3,7 @@ name = "lili_customer_growth"
 authors = [
     { name = "lili", email = "13176294627@163.com"}
 ]
-description = "Customer service lifecycle and growth analysis system[C"
+description = "Customer service lifecycle and growth analysis system"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
